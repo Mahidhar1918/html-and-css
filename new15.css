@@ -1,0 +1,73 @@
+.background-card{
+    background-color: #0d2436;
+  
+}
+.image-A{
+    width: 200px;
+}
+.google-logo{
+    border-radius: 40px;
+    width:30px;
+    padding:5px;
+    margin: 3px;
+    background-color: #152c3e;
+}
+.twitter-logo{
+    border-radius: 40px;
+    width:30px;
+    padding:5px;
+    margin: 3px;
+    background-color: #152c3e;
+}
+.insta-logo{
+    border-radius: 40px;
+    width:30px;
+    padding:5px;
+    margin: 3px;
+    background-color: #152c3e;
+}
+.linkdin-logo{
+    border-radius: 40px;
+    width:30px;
+    padding:5px;
+    margin: 3px;
+    background-color: #152c3e;
+    
+}
+.fa-google{
+    width: 100px;
+    color:#5a7184;
+}
+.fa-twitter{
+    width: 100px;
+    color:#5a7184;
+}
+.fa-instagram{
+    width: 100px;
+    color:#5a7184;
+}
+.fa-linkedin{
+    width: 100px;
+    color:#5a7184;
+}
+p{
+    color:#5a7184;
+}
+h1{
+    color:#5a7184;
+    font-size: 25px; 
+}
+.heading{
+    color:#5a7184;
+    font-size: 25px; 
+}
+h7{
+    color:#5a7184;
+     
+}
+hr{
+    background-color: #5a7184;
+}
+.fa-copyright{
+    color:#5a7184;
+}

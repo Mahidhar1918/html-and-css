@@ -1,0 +1,36 @@
+.background-card {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/conference-img.png");
+    height: 50vh;
+    width: 65vh;
+    background-size: cover;
+    padding: 1rem;
+    margin: 1rem;
+
+}
+
+.conference-card {
+    padding: 1rem;
+    width: 300px;
+    text-align: center;
+    margin-left: 4rem;
+}
+
+.conference-card h1 {
+    font-size: 30px;
+    color: #183b56;
+
+
+}
+
+.conference-card p {
+    color: #5a7184;
+    text-align: center;
+
+
+}
+
+
+    
+.stat-container{
+    margin: 15px;
+}

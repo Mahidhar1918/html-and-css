@@ -1,0 +1,52 @@
+.background-card{
+    background-color:#52606d;
+
+}
+.para-1{
+    color:#cced00;
+    font-weight: 600;
+    margin-left: 7rem;
+    
+}
+h1{
+    color:white;
+    font-size: 20px;
+    margin: 1rem;
+}
+.heading{
+    font-size: 30px;
+    margin-left: 7rem;
+}
+.website-card-1{
+    border-style: transparent;
+    width:400px;
+    background-color:#323f4b ;
+    color: #9aa5b1;
+    border-radius:5px;
+    padding: 1rem;
+
+}
+.image-A{
+    width: 35px;
+}
+.website-card-2{
+    border-style: transparent;
+    width:400px;
+    background-color:#323f4b ;
+    color: #9aa5b1;
+    border-radius:5px;
+    padding: 1rem;
+}
+.website-card-3{
+    border-style: transparent;
+    width:400px;
+    background-color:#323f4b ;
+    color: #9aa5b1;
+    border-radius:5px;
+    padding: 1rem;
+
+}
+p{
+    margin:1rem;
+    
+}

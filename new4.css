@@ -1,0 +1,37 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.background-card{
+    background-color:#191a1d ;
+    
+}
+.image-A{
+    width: 200px;
+}
+h1{
+    color:white;
+}
+p{
+    color:#9aa5b1;
+}
+.heading-button{
+    background-color: #4b6cc1;
+    border-radius: 10px;
+    width:120px;
+    padding: 10px;
+    color: white;
+    margin-bottom: 2rem;
+}
+.heading{
+    color:#4b6cc1;
+}
+.navbar-brand{
+    border-radius: 5px;
+    border-color:#4b6cc1;
+    border-style:solid;
+    padding:10px;
+    width:30px;
+    height:50px;
+}

@@ -1,0 +1,29 @@
+.background-card{
+    background-color: #213555;
+    height: 100vh;
+}
+.content-card{
+   color:white;
+}
+.diff{
+    color:#BC7AF9;
+}
+.content-container{
+    color:white; 
+    padding: 1rem;
+    border-style: solid ;
+    margin:1rem;
+    border-color:black;
+    border-width: 1px;
+    background-color: #0F2C59;
+}
+.stat-card {
+  gap:1rem;
+}
+.size{
+    font-size: 25px;
+}
+.meeting{
+    width:70vh;
+    height:50vh;
+}

@@ -1,0 +1,22 @@
+.image-A{
+    width: 440px;
+    padding: 0.5rem;
+}
+h1{
+    font-size: 25px;
+}
+.keyboard-card-1{
+    margin-bottom: 2rem;
+    border-style: none;
+    width: 450px;
+}
+
+
+.keyboard-card-2{
+    margin-bottom: 2rem;
+    border-style: none;
+    width: 450px;
+}
+a{
+    color:#ff9f00;
+}

@@ -1,0 +1,94 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.background-card{
+    background-color: #19232d;
+}
+.image-A{
+ width: 100px;
+ padding-top: 4rem;
+ margin-left:7rem ;
+ 
+}
+.fa-google{
+    background-color: #202b36;
+    color:#959ead;
+    border-radius: 40px;
+    width: 50px;
+    text-align: center;
+    height: 50px;
+    padding: 15px;
+    
+}
+.fa-twitter{
+    background-color: #202b36;
+    color:#959ead;
+    border-radius: 40px;
+    width: 50px;
+    text-align: center;
+    height: 50px;
+    padding: 15px;
+    
+}
+.fa-instagram{
+    background-color: #202b36;
+    color:#959ead;
+    border-radius: 40px;
+    width: 50px;
+    text-align: center;
+    height: 50px;
+    padding: 15px;
+    
+}
+.fa-linkedin{
+    background-color: #202b36;
+    color:#959ead;
+    border-radius: 40px;
+    width: 50px;
+    text-align: center;
+    height: 50px;
+    padding: 15px;
+    
+}
+p{
+    color:#959ead;
+
+}
+h1{
+    color:#959ead;
+    font-size: 20px;
+}
+.icons{
+    color:#959ead;
+}
+hr{
+ background-color: white;
+}
+.end-credits{
+    color:#959ead;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 5rem;
+}
+.circle-A{
+    border-radius: 50px;
+    border-style: solid;
+    width: 45px;
+    height: 20px;
+    padding: 0.5rem;
+}
+.vr-footer-section-copyright{
+    color:#959ead;
+    font-family: 'roboto';
+    font-size: 16px;
+    font-weight: 400;
+    font-size: 15px;
+}
+.fa-copyright{
+   color:#959ead;
+}
+.navbar{
+    background-color: #9aa5b1;
+}

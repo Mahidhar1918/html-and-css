@@ -1,0 +1,46 @@
+.background-card{
+    background-color: #222222;
+    width: 410px;
+    height: 899px;
+    padding: 1rem;
+    
+
+
+}
+.background-card h1{
+    color:#f19116;
+    font-family: 'bree serif';
+    
+}
+.ROOMS{
+    width: 90px;
+    height: 160px;
+    margin-right:1rem ;
+}
+.heading-card{
+    width: 400px;
+    
+    border-radius: 10px;
+    
+}
+        
+.flat-1{
+    padding: 1rem;
+    border:1px solid black;
+    margin:1rem;
+    background-color: white;
+    border-radius: 10px;
+   
+}
+.flat-1 p{
+    color:#6c6b70;
+}
+.button-1{
+    margin-right: 10px;
+}
+.button{
+    background-color: #f19116;
+    width: 106px;
+    border-radius: 10px;
+    padding:5px;
+}

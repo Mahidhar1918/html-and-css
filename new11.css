@@ -1,0 +1,38 @@
+.headphone-section{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    background-size: cover;
+    width: 400px;
+    height: 300px;
+    border-radius: 10px;
+}
+.button-1{
+   border-style: none;
+    border-radius: 10px;
+    padding: 5px;
+    color:#ff9f00;
+}
+h2{
+    color:white;
+
+}
+p{
+    color:white;
+}
+.laptop-section{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    background-size: cover;
+    width: 400px;
+    height: 300px;
+    border-radius: 10px;
+}
+h3{
+    color:#ff9f00;
+}
+a{
+    color:#ff9f00;
+    margin-bottom: 5rem;
+}
+.background-card{
+    width: 450px;
+
+}

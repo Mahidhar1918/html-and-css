@@ -1,0 +1,77 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.background-card{
+    background-color:#CAEDFF;
+    height:100vh;
+    width:100vw;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+.card-container{
+    /* border:10px solid red; */
+    width:300px;
+    background-color: white;
+    border-radius:1rem;
+
+
+
+
+    
+}
+.order-card{
+    background-image:url("https://cdn.pixabay.com/photo/2014/02/27/16/10/flowers-276014_640.jpg");
+    height:300px;
+    width:100%;
+    background-size:cover;
+    border-radius: 1rem;
+
+}
+.plan-card{
+    background-color: yellow;
+    padding:1rem;
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+
+}
+.textpart{
+    padding:2rem;
+    text-align: center;
+}
+.summary-card h1{
+
+    font-size:1.5rem;
+    margin-bottom: 1rem;
+}
+.summary-card p{
+    margin-bottom: 1rem;
+}
+.para-2{
+    text-decoration: underline;
+    color:blue
+}
+.payment{
+    padding:1rem 2rem;
+    background-color: blue;
+    border:none;
+    color:white;
+    width:100%;
+    border-radius: 1rem;
+
+
+}
+.cancel{
+    margin-top: 1rem;
+    background-color:white;
+    border:0px;
+    color:grey;
+
+
+}

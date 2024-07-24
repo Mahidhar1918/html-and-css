@@ -1,0 +1,35 @@
+.background-card{
+    background-color:#ffedcb;
+    width: 500px;
+
+
+}
+.image-0{
+    height: 240px;
+    width: 200px;
+    margin-left: 7rem;
+}
+.image-card h2{
+    text-align: center;
+    color:#132d84;
+
+}
+.yoga{
+    border:1px solid #fad693;
+    margin:1rem;
+    background-color: #fad693;
+    border-radius: 10px;
+}
+.image-girl{
+    width: 100px;
+}
+.button{
+    text-align: center;
+}
+.button-1{
+    background-color: #132d84;
+    border-radius: 10px;
+    width:120px;
+    padding:5px;
+    
+}

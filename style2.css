@@ -1,0 +1,61 @@
+.puri-image{
+    height:20vh;
+    width:25vh;
+    margin:1rem 2rem;
+    
+}
+.tedx-image{
+     height:20vh;
+    width:25vh;
+    margin:1rem;
+}
+.sadhguru-image{
+      height:20vh;
+    width:25vh;
+    margin:1rem;
+}
+.onpurpose-image{
+     height:20vh;
+    width:25vh;
+    margin:1rem;
+}
+.cast-1 h2{
+    font-size:20px;
+    margin-left:2rem;
+    font-family: 'Roboto';
+    font-weight: bold;
+}
+.para-1{
+    color:#5a7184;
+    margin-left:3rem;
+}
+.cast-2 h3{
+    font-size:20px;
+    margin-left:2rem;
+    font-family: 'Roboto';
+    font-weight: bold;
+}
+.para-2{
+     color:#5a7184;
+    margin-left:2rem;
+}
+.cast-3 h4{
+    font-size:20px;
+    margin-left:2rem;
+    font-family: 'Roboto';
+    font-weight: bold;
+}
+.para-3{
+     color:#5a7184;
+    margin-left:2rem;
+}
+.cast-4 h5{
+    font-size:20px;
+    margin-left:2rem;
+    font-family: 'Roboto';
+    font-weight: bold;
+}
+.para-4{
+     color:#5a7184;
+    margin-left:2rem;
+}

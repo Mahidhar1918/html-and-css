@@ -1,0 +1,86 @@
+.back-puri{
+    background-color:#151765;
+    height: 20vh;
+    width: 60vh;
+}
+.puri-image{
+    height: 15vh;
+    width: 20vh;
+    margin: 1rem 2rem;
+}
+.para-a{
+    color:white;
+    margin-top: 1rem;
+
+}
+.podcasts-puri h6{
+    color:white;
+    font-weight: bold;
+    margin:0px;    
+}
+.para-b{
+    color:#5a7184;
+    margin-top: 1rem;
+
+}
+.podcasts-puri h7{
+    color:#151765;
+    font-weight: bold;
+    margin:0px;    
+}
+.para-b{
+    color:#5a7184;
+    margin-top: 1rem;
+
+}
+.podcasts-puri h7{
+    color:#151765;
+    font-weight: bold;
+    margin:0px;    
+}
+.para-c{
+    color:#5a7184;
+    margin-top: 1rem;
+
+}
+.podcasts-puri h8{
+    color:#151765;
+    font-weight: bold;
+    margin:0px;    
+}
+.para-d{
+    color:#5a7184;
+    margin-top: 1rem;
+
+}
+.podcasts-puri h9{
+    color:#151765;
+    font-weight: bold;
+    margin:0px;    
+}
+.para-e{
+    color:#5a7184;
+    margin-top: 1rem;
+
+}
+.podcasts-puri h10{
+    color:#151765;
+    font-weight: bold;
+    margin:0px;    
+}
+.button-element {
+    text-align: center;
+    
+
+
+}
+
+.button {
+    background-color:#151765;
+    width: 126px;
+    height: 46px;
+    border-radius: 10px;
+    color: white;
+    font-family: 'roboto';
+    border-style: none;
+}

@@ -1,0 +1,16 @@
+
+h1 {
+    background-color: #f0b429;
+    font-family: "Roboto";
+  }
+  
+  .paragraph {
+    color: #7a0ecc;
+    font-family: "Roboto";
+    font-style: italic;
+  }
+  
+  #specialParagraph {
+    color: #0366fc;
+  }
+  

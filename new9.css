@@ -1,0 +1,35 @@
+.background-card{
+    background-color:#001c32;
+}
+h1{
+    color:#cced00;
+    margin-top: 1.5rem;
+    font-size: 30px;
+}
+.image-A{
+    width:50px;
+    height: 50px;
+    border-radius: 30px;
+
+}
+p{
+    color:#5a7184;
+}
+.fa-copyright{
+    color:#5a7184;
+    
+}
+.adress-card{
+    color:#5a7184;
+}
+.email-card{
+    color:#5a7184;
+   
+}
+.fa-phone{
+    color:#5a7184;
+    padding: ;
+}
+.copyright-card{
+    background-color: #0d2436;
+}

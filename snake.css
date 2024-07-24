@@ -1,0 +1,32 @@
+.background-card {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/foundations-bg.png");
+
+
+    width: 400px;
+    background-size: cover;
+}
+
+.code-card {
+    background-color: white;
+   margin-top: 15rem;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    padding:1rem;
+}
+.language-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap:2rem;
+   
+
+
+}
+.language{
+    border:1px solid #cbd2d9;
+    padding:10px;
+    border-radius: 1rem;
+}
+.code-card h1{
+    color:323f4b;
+    font-family: 'roboto';
+}

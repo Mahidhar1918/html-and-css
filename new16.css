@@ -1,0 +1,39 @@
+.image-A{
+    width: 150px;
+}
+.navbar-toggler{
+    background-color: white;
+}
+.nav-bg{
+    background-color:#0c0521;
+}
+#colour{
+    color: white;
+}
+.background-card{
+    background-image:url("https://assets.ccbp.in/frontend/responsive-website/landing-section-bg.png");
+    background-size:cover;
+}
+.heading{
+    color: white;
+    font-size: 25px;
+}
+.para{
+    color:white;
+    font-size: 20px;
+
+}
+.style{
+    color:#ffdda9;
+    font-size: 25px;
+}
+.button-1{
+    text-align: center;
+}
+.button-2{
+    background-color: #ffdda9;
+    border-radius: 10px;
+    width: 120px;
+    padding: 0.5rem;
+    border-width: 0px;
+}

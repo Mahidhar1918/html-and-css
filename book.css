@@ -1,0 +1,25 @@
+.background-card{
+    background-color: black;
+    color:white;
+    padding: 1rem;
+    width:500px;
+}
+.apj{
+    width: 150px;
+    
+    
+}
+.title-card{
+    background-color:#e6f6ff;
+    color:#183b56;
+    font-family: 'roboto';
+    width:400px;
+    border-radius: 10px;
+    
+}
+.pad{
+    padding: 1rem;
+}
+.book-1{
+    padding:0.5rem;
+}

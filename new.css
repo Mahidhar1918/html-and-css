@@ -1,0 +1,18 @@
+.healthy-food-image{
+    height: 30vh;
+}
+.healthy-card-heading{
+    font-size: 24px;
+}
+.healthy-card-discription{
+    font-size: 15px;
+
+}
+.healthy-card-button{
+    background-color:#d0b200;
+    color:white;
+  
+    border-radius: 10px;
+    border-color: white;
+    padding: 10px;
+}

@@ -1,0 +1,53 @@
+
+.covid-card h1 {
+    font-size: 24px;
+}
+.covid-test{
+    background-color: #e6f0f8;
+    margin-bottom: 1rem;
+
+}
+.covid-card{
+    margin-bottom: 1rem;
+}
+h6{
+    margin-bottom: 2rem;
+}
+.symptoms-container{
+    display: flex;
+    justify-content: space-around;
+
+}
+.different-symptoms{
+    background-color: #3ebd93;
+    padding:1rem;
+    border-radius: 1rem;
+    color:white;
+    font-family: roboto;
+}
+.symp-2{
+    background-color: #e766a6;
+    padding:1rem;
+    border-radius: 1rem;
+    color:white;
+    font-family: roboto;
+}
+.symp-3{
+    background-color: #a365f8;
+    padding:1rem;
+    border-radius: 1rem;
+    color:white;
+    font-family: roboto;
+}
+.prevention-box{
+    background-color: #e12d3919;
+    padding:1rem;
+    border-radius: 1rem;
+    
+
+}
+.btn{
+    width:20%;
+    text-align: center;
+    margin:auto;
+}
